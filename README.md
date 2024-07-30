@@ -6,7 +6,7 @@ J'ai codé un formulaire simple en plusieurs étapes en HTML5, CSS3 et JavaScrip
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/multi_step_form/
 
 ## Développez avec
 
