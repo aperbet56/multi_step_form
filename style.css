@@ -62,9 +62,9 @@ form input[type="number"] {
 
 /* Suppression des flèches de l'input number sur Chrome */
 form input[type="number"]::-webkit-inner-spin-button,
-input::-webkit-outer-spin-button { 
--webkit-appearance: none;
-margin: 0;
+form input[type="number"]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    margin: 0;
 }
 
 
