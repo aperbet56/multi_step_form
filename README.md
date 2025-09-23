@@ -1,5 +1,11 @@
 ## FORMULAIRE EN PLUSIEURS ETAPES (MULTI STEP FORM)
 
+![Design preview for the project](./img/preview.png)
+
+![Design preview for the project](./img/preview-1.png)
+
+![Design preview for the project](./img/preview-2.png)
+
 ## Le challenge
 
 J'ai codé un formulaire simple en plusieurs étapes en HTML5, CSS3 et JavaScript.
